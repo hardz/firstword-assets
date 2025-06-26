@@ -1,0 +1,114 @@
+[
+  {
+    "categoryTitle": "Numbers",
+    "subCategoryTitle": "બટાકા - potato",
+    "itemData": "vegetables_data.json",
+    "imageUrl": "https://example.com/image3.jpg",
+    "categoryImageId": "birds_category_bg"
+  },
+  {
+    "categoryTitle": "Alphabets",
+    "subCategoryTitle": "બટાકા - potato",
+    "itemData": "vegetables_data.json",
+    "imageUrl": "https://example.com/image3.jpg",
+    "categoryImageId": "birds_category_bg"
+  },
+  {
+    "categoryTitle": "Vegetables",
+    "subCategoryTitle": "બટાકા - potato",
+    "itemData": "vegetables_data.json",
+    "imageUrl": "https://example.com/image3.jpg",
+    "categoryImageId": "vegetable_category_bg"
+  },
+  {
+    "categoryTitle": "Fruits",
+    "subCategoryTitle": "બટાકા - potato",
+    "itemData": "vegetables_data.json",
+    "imageUrl": "https://example.com/image3.jpg",
+    "categoryImageId": "fruits_category_bg"
+  },
+  {
+    "categoryTitle": "Flowers",
+    "subCategoryTitle": "બટાકા - potato",
+    "itemData": "vegetables_data.json",
+    "imageUrl": "https://example.com/image3.jpg",
+    "categoryImageId": "flowers_category_bg"
+  },
+  {
+    "categoryTitle": "Animals",
+    "subCategoryTitle": "બટાકા - potato",
+    "itemData": "animals_data.json",
+    "imageUrl": "https://example.com/image3.jpg",
+    "categoryImageId": "animals_category_bg"
+  },
+  {
+    "categoryTitle": "Birds",
+    "subCategoryTitle": "બટાકા - potato",
+    "itemData": "vegetables_data.json",
+    "imageUrl": "https://example.com/image3.jpg",
+    "categoryImageId": "birds_category_bg"
+  },
+  {
+    "categoryTitle": "Colors",
+    "subCategoryTitle": "બટાકા - potato",
+    "itemData": "vegetables_data.json",
+    "imageUrl": "https://example.com/image3.jpg",
+    "categoryImageId": "colors_category_bg"
+  },
+  {
+    "categoryTitle": "Shapes",
+    "subCategoryTitle": "બટાકા - potato",
+    "itemData": "vegetables_data.json",
+    "imageUrl": "https://example.com/image3.jpg",
+    "categoryImageId": "birds_category_bg"
+  },
+  {
+    "categoryTitle": "Body Parts",
+    "subCategoryTitle": "બટાકા - potato",
+    "itemData": "vegetables_data.json",
+    "imageUrl": "https://example.com/image3.jpg",
+    "categoryImageId": "birds_category_bg"
+  },
+  {
+    "categoryTitle": "Vehicles",
+    "subCategoryTitle": "બટાકા - potato",
+    "itemData": "vegetables_data.json",
+    "imageUrl": "https://example.com/image3.jpg",
+    "categoryImageId": "birds_category_bg"
+  },
+  {
+    "categoryTitle": "Calendar",
+    "subCategoryTitle": "બટાકા - potato",
+    "itemData": "vegetables_data.json",
+    "imageUrl": "https://example.com/image3.jpg",
+    "categoryImageId": "birds_category_bg"
+  },
+  {
+    "categoryTitle": "Games",
+    "subCategoryTitle": "બટાકા - potato",
+    "itemData": "vegetables_data.json",
+    "imageUrl": "https://example.com/image3.jpg",
+    "categoryImageId": "birds_category_bg"
+  },
+  {
+    "categoryTitle": "Festivals",
+    "subCategoryTitle": "બટાકા - potato",
+    "itemData": "vegetables_data.json",
+    "imageUrl": "https://example.com/image3.jpg",
+    "categoryImageId": "birds_category_bg"
+  },
+  {
+    "categoryTitle": "Currency",
+    "subCategoryTitle": "બટાકા - potato",
+    "itemData": "vegetables_data.json",
+    "imageUrl": "https://example.com/image3.jpg",
+    "categoryImageId": "birds_category_bg"
+  },
+  {
+    "categoryTitle": "India",
+    "subCategoryTitle": "બટાકા - potato",
+    "itemData": "vegetables_data.json",
+    "imageUrl": "https://example.com/image3.jpg",
+    "categoryImageId": "birds_category_bg"
+  }
+]
