@@ -1,114 +1,114 @@
 [
   {
+    "categoryId": "numbers",
     "categoryTitle": "Numbers",
-    "subCategoryTitle": "બટાકા - potato",
-    "itemData": "vegetables_data.json",
-    "imageUrl": "https://example.com/image3.jpg",
-    "categoryImageId": "birds_category_bg"
+    "itemData": "numbers_data.json",
+    "categoryImageId": "numbers_category_bg",
+    "assets": "numbers_assets"
   },
   {
+    "categoryId": "alphabets",
     "categoryTitle": "Alphabets",
-    "subCategoryTitle": "બટાકા - potato",
-    "itemData": "vegetables_data.json",
-    "imageUrl": "https://example.com/image3.jpg",
-    "categoryImageId": "birds_category_bg"
+    "itemData": "alphabets_data.json",
+    "categoryImageId": "alphabets_category_bg",
+    "assets": "alphabets_assets"
   },
   {
+    "categoryId": "vegetables",
     "categoryTitle": "Vegetables",
-    "subCategoryTitle": "બટાકા - potato",
     "itemData": "vegetables_data.json",
-    "imageUrl": "https://example.com/image3.jpg",
-    "categoryImageId": "vegetable_category_bg"
+    "categoryImageId": "vegetables_category_bg",
+    "assets": "vegetables_assets"
   },
   {
+    "categoryId": "fruits",
     "categoryTitle": "Fruits",
-    "subCategoryTitle": "બટાકા - potato",
-    "itemData": "vegetables_data.json",
-    "imageUrl": "https://example.com/image3.jpg",
-    "categoryImageId": "fruits_category_bg"
+    "itemData": "fruits_data.json",
+    "categoryImageId": "fruits_category_bg",
+    "assets": "fruits_assets"
   },
   {
+    "categoryId": "flowers",
     "categoryTitle": "Flowers",
-    "subCategoryTitle": "બટાકા - potato",
-    "itemData": "vegetables_data.json",
-    "imageUrl": "https://example.com/image3.jpg",
-    "categoryImageId": "flowers_category_bg"
+    "itemData": "flowers_data.json",
+    "categoryImageId": "flowers_category_bg",
+    "assets": "flowers_assets"
   },
   {
+    "categoryId": "animals",
     "categoryTitle": "Animals",
-    "subCategoryTitle": "બટાકા - potato",
     "itemData": "animals_data.json",
-    "imageUrl": "https://example.com/image3.jpg",
-    "categoryImageId": "animals_category_bg"
+    "categoryImageId": "animals_category_bg",
+    "assets": "animals_assets"
   },
   {
+    "categoryId": "birds",
     "categoryTitle": "Birds",
-    "subCategoryTitle": "બટાકા - potato",
-    "itemData": "vegetables_data.json",
-    "imageUrl": "https://example.com/image3.jpg",
-    "categoryImageId": "birds_category_bg"
+    "itemData": "birds_data.json",
+    "categoryImageId": "birds_category_bg",
+    "assets": "birds_assets"
   },
   {
+    "categoryId": "colors",
     "categoryTitle": "Colors",
-    "subCategoryTitle": "બટાકા - potato",
-    "itemData": "vegetables_data.json",
-    "imageUrl": "https://example.com/image3.jpg",
-    "categoryImageId": "colors_category_bg"
+    "itemData": "colors_data.json",
+    "categoryImageId": "colors_category_bg",
+    "assets": "colors_assets"
   },
   {
+    "categoryId": "shapes",
     "categoryTitle": "Shapes",
-    "subCategoryTitle": "બટાકા - potato",
-    "itemData": "vegetables_data.json",
-    "imageUrl": "https://example.com/image3.jpg",
-    "categoryImageId": "birds_category_bg"
+    "itemData": "shapes_data.json",
+    "categoryImageId": "shapes_category_bg",
+    "assets": "shapes_assets"
   },
   {
+    "categoryId": "body-parts",
     "categoryTitle": "Body Parts",
-    "subCategoryTitle": "બટાકા - potato",
-    "itemData": "vegetables_data.json",
-    "imageUrl": "https://example.com/image3.jpg",
-    "categoryImageId": "birds_category_bg"
+    "itemData": "body-parts_data.json",
+    "categoryImageId": "body-parts_category_bg",
+    "assets": "body-parts_assets"
   },
   {
+    "categoryId": "vehicles",
     "categoryTitle": "Vehicles",
-    "subCategoryTitle": "બટાકા - potato",
-    "itemData": "vegetables_data.json",
-    "imageUrl": "https://example.com/image3.jpg",
-    "categoryImageId": "birds_category_bg"
+    "itemData": "vehicles_data.json",
+    "categoryImageId": "vehicles_category_bg",
+    "assets": "vehicles_assets"
   },
   {
+    "categoryId": "calendar",
     "categoryTitle": "Calendar",
-    "subCategoryTitle": "બટાકા - potato",
-    "itemData": "vegetables_data.json",
-    "imageUrl": "https://example.com/image3.jpg",
-    "categoryImageId": "birds_category_bg"
+    "itemData": "calendar_data.json",
+    "categoryImageId": "calendar_category_bg",
+    "assets": "calendar_assets"
   },
   {
+    "categoryId": "games",
     "categoryTitle": "Games",
-    "subCategoryTitle": "બટાકા - potato",
-    "itemData": "vegetables_data.json",
-    "imageUrl": "https://example.com/image3.jpg",
-    "categoryImageId": "birds_category_bg"
+    "itemData": "games_data.json",
+    "categoryImageId": "games_category_bg",
+    "assets": "games_assets"
   },
   {
+    "categoryId": "festivals",
     "categoryTitle": "Festivals",
-    "subCategoryTitle": "બટાકા - potato",
-    "itemData": "vegetables_data.json",
-    "imageUrl": "https://example.com/image3.jpg",
-    "categoryImageId": "birds_category_bg"
+    "itemData": "festivals_data.json",
+    "categoryImageId": "festivals_category_bg",
+    "assets": "festivals_assets"
   },
   {
+    "categoryId": "currency",
     "categoryTitle": "Currency",
-    "subCategoryTitle": "બટાકા - potato",
-    "itemData": "vegetables_data.json",
-    "imageUrl": "https://example.com/image3.jpg",
-    "categoryImageId": "birds_category_bg"
+    "itemData": "currency_data.json",
+    "categoryImageId": "currency_category_bg",
+    "assets": "currency_assets"
   },
   {
+    "categoryId": "india",
     "categoryTitle": "India",
-    "subCategoryTitle": "બટાકા - potato",
-    "itemData": "vegetables_data.json",
-    "imageUrl": "https://example.com/image3.jpg",
-    "categoryImageId": "birds_category_bg"
+    "itemData": "india_data.json",
+    "categoryImageId": "india_category_bg",
+    "assets": "india_assets"
   }
 ]
